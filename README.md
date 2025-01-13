@@ -29,4 +29,4 @@ Link: [https://www.llama.com/license/](https://www.llama.com/license/)
 
 ## Contact
 
-For any inquiries, email b458zhan@uwaterloo.ca.
+For any inquiries, email g2pu@uwaterloo.ca.
